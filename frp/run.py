@@ -29,7 +29,7 @@ process = subprocess.Popen(
 
 text = '''
 http://sj.frp.one:58000 ——> 8000
-http://xg-4.frp.one:58080 ——> 8080
+http://jp.frp.one:58080 ——> 8080
 '''
 
 print(text)
