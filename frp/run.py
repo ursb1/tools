@@ -1,7 +1,7 @@
 import subprocess
 import os
 
-os.system('!chmod +x ./frpc')
+os.system('chmod +x ./frpc')
 
 command1 = [
     './frpc',
